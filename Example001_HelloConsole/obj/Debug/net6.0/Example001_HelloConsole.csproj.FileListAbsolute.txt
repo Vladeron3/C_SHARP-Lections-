@@ -1,0 +1,15 @@
+/home/olga/Рабочий стол/УЧЕБА/C_SHARP/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole
+/home/olga/Рабочий стол/УЧЕБА/C_SHARP/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole.deps.json
+/home/olga/Рабочий стол/УЧЕБА/C_SHARP/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole.runtimeconfig.json
+/home/olga/Рабочий стол/УЧЕБА/C_SHARP/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole.dll
+/home/olga/Рабочий стол/УЧЕБА/C_SHARP/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole.pdb
+/home/olga/Рабочий стол/УЧЕБА/C_SHARP/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.csproj.AssemblyReference.cache
+/home/olga/Рабочий стол/УЧЕБА/C_SHARP/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/olga/Рабочий стол/УЧЕБА/C_SHARP/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.AssemblyInfoInputs.cache
+/home/olga/Рабочий стол/УЧЕБА/C_SHARP/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.AssemblyInfo.cs
+/home/olga/Рабочий стол/УЧЕБА/C_SHARP/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.csproj.CoreCompileInputs.cache
+/home/olga/Рабочий стол/УЧЕБА/C_SHARP/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.dll
+/home/olga/Рабочий стол/УЧЕБА/C_SHARP/Example001_HelloConsole/obj/Debug/net6.0/refint/Example001_HelloConsole.dll
+/home/olga/Рабочий стол/УЧЕБА/C_SHARP/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.pdb
+/home/olga/Рабочий стол/УЧЕБА/C_SHARP/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.genruntimeconfig.cache
+/home/olga/Рабочий стол/УЧЕБА/C_SHARP/Example001_HelloConsole/obj/Debug/net6.0/ref/Example001_HelloConsole.dll
